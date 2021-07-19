@@ -1,5 +1,6 @@
-class Simple{  
-    public static void main(String args[]){  
+class hello{
+    public static void main(
+            String args[]){
      System.out.println("Hello world, I am java");
     }  
 } 
